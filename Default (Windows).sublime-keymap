@@ -1,0 +1,7 @@
+[
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+    { "keys": ["ctrl+alt+f"], "command": "reindent", "args": { "single_line": false } },
+    { "keys": ["f1"], "command": "toggle_side_bar" },
+    { "keys": ["alt+,"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Add Comma End.sublime-macro"} },
+    { "keys": ["alt+;"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Add Semicolon End.sublime-macro"} },
+]

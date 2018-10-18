@@ -1,0 +1,51 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"MarkdownPreview",
+		"SideBarEnhancements"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Http Requester",
+		"IMESupport",
+		"Insert Callback",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"Laravel Blade Highlighter",
+		"LiveReload",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Phpcs",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Transparency",
+		"View In Browser"
+	]
+}
